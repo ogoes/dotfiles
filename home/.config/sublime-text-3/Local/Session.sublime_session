@@ -1,0 +1,2455 @@
+{
+	"folder_history":
+	[
+		"/home/gord/Git/sistemas-distribuidos/remote_procedure_call",
+		"/home/gord/Git/sistemas-distribuidos/external_data_representation",
+		"/home/gord/Git/sistemas-distribuidos/multicast",
+		"/home/gord/Git/sd-kotlin/socket-udp",
+		"/home/gord/Git/sd-kotlin",
+		"/home/gord/Git/sistemas-distribuidos"
+	],
+	"last_version": 3211,
+	"last_window_id": 32,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 717.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"alunos",
+						"alunosQuery"
+					],
+					[
+						"no",
+						"nota_response"
+					],
+					[
+						"ms",
+						"msg_size"
+					],
+					[
+						"alu",
+						"alunos_response"
+					],
+					[
+						"re",
+						"request"
+					],
+					[
+						"d",
+						"disciplinaQuery"
+					],
+					[
+						"dis",
+						"disciplinaResult"
+					],
+					[
+						"nota",
+						"notas"
+					],
+					[
+						"sta",
+						"statusCode"
+					],
+					[
+						"Nota",
+						"NotaResponse"
+					],
+					[
+						"me",
+						"message"
+					],
+					[
+						"codi",
+						"codigo"
+					],
+					[
+						"Dis",
+						"Disciplina"
+					],
+					[
+						"encont",
+						"encontrado"
+					],
+					[
+						"set",
+						"set_message"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"curo",
+						"cursoQuery"
+					],
+					[
+						"res",
+						"responseData"
+					],
+					[
+						"sera",
+						"serializedResponse"
+					],
+					[
+						"cria",
+						"criaMatricula"
+					],
+					[
+						"Aluno",
+						"AlunoMatricula"
+					],
+					[
+						"mutable",
+						"mutable_status"
+					],
+					[
+						"aluno",
+						"alunosQuery"
+					],
+					[
+						"resul",
+						"result"
+					],
+					[
+						"str",
+						"string"
+					],
+					[
+						"result",
+						"resultMatricula"
+					],
+					[
+						"se",
+						"semestre"
+					],
+					[
+						"matri",
+						"matricula"
+					],
+					[
+						"Com",
+						"CopyFrom"
+					],
+					[
+						"rseult",
+						"resultDisciplina"
+					],
+					[
+						"statu",
+						"set_statuscode"
+					],
+					[
+						"matr",
+						"matricula"
+					],
+					[
+						"matricula",
+						"matriculaStatus"
+					],
+					[
+						"cle",
+						"clientHandler"
+					],
+					[
+						"Clo",
+						"close"
+					],
+					[
+						"sele",
+						"selectMatricula"
+					],
+					[
+						"reque",
+						"requestData"
+					],
+					[
+						"NOta",
+						"NotaRequest"
+					],
+					[
+						"ser",
+						"serializedRequest"
+					],
+					[
+						"reques",
+						"request"
+					],
+					[
+						"req",
+						"requestData"
+					],
+					[
+						"NOt",
+						"NotaRequest"
+					],
+					[
+						"Re",
+						"requestData"
+					],
+					[
+						"respon",
+						"responseData"
+					],
+					[
+						"respo",
+						"responseData"
+					],
+					[
+						"respose",
+						"responseData"
+					],
+					[
+						"repon",
+						"responseData"
+					],
+					[
+						"response",
+						"responseData"
+					],
+					[
+						"sie",
+						"serializedResponse"
+					],
+					[
+						"respons",
+						"responseData"
+					],
+					[
+						"cst",
+						"cstdio\tstandard header"
+					],
+					[
+						"pro",
+						"pro_buffer"
+					],
+					[
+						"cl",
+						"client_socket"
+					],
+					[
+						"vector",
+						"vector\tstandard header"
+					],
+					[
+						"sei",
+						"serializedResponse"
+					],
+					[
+						"sel",
+						"selectMatricula"
+					],
+					[
+						"ma",
+						"matricula"
+					],
+					[
+						"C",
+						"CreateMatricula"
+					],
+					[
+						"D",
+						"Disciplina"
+					],
+					[
+						"sql",
+						"sqlite3_column_count"
+					],
+					[
+						"sq",
+						"sqlite3_prepate_v2"
+					],
+					[
+						"ope",
+						"open"
+					],
+					[
+						"op",
+						"opened"
+					],
+					[
+						"int",
+						"instance"
+					],
+					[
+						"Sock",
+						"SockAddress"
+					],
+					[
+						"resp",
+						"responseSize"
+					],
+					[
+						"HE",
+						"HEXsize0"
+					],
+					[
+						"un",
+						"unwrapResponse"
+					],
+					[
+						"u",
+						"unwrapMessage"
+					],
+					[
+						"respos",
+						"responseData"
+					],
+					[
+						"so",
+						"sockFd"
+					],
+					[
+						"bu",
+						"buffer_size"
+					],
+					[
+						"buffer",
+						"buffer_size"
+					],
+					[
+						"cli",
+						"clientHandler"
+					],
+					[
+						"in",
+						"in_len"
+					],
+					[
+						"sock",
+						"sock_fd"
+					],
+					[
+						"SOck",
+						"SockIn"
+					],
+					[
+						"Ma",
+						"Matricula"
+					],
+					[
+						"co",
+						"codigo_curso"
+					],
+					[
+						"cod",
+						"codigo_curso"
+					],
+					[
+						"codigo",
+						"codigo"
+					],
+					[
+						"_",
+						"_dSocket"
+					],
+					[
+						"tar",
+						"Target"
+					],
+					[
+						"mul",
+						"multi"
+					],
+					[
+						"c",
+						"c_str"
+					],
+					[
+						"send",
+						"sendMessage"
+					],
+					[
+						"msg",
+						"msg_ss"
+					],
+					[
+						"begi",
+						"beginning"
+					],
+					[
+						"user",
+						"users_tab"
+					],
+					[
+						"be",
+						"begin"
+					],
+					[
+						"new",
+						"new_one"
+					],
+					[
+						"w_",
+						"w_y_size"
+					],
+					[
+						"show",
+						"showMessages"
+					],
+					[
+						"mes",
+						"messages_tab"
+					],
+					[
+						"vr",
+						"vector\tstd::vector"
+					],
+					[
+						"read",
+						"reader_tab"
+					],
+					[
+						"std",
+						"stdscr"
+					],
+					[
+						"get",
+						"getInitialInformations"
+					],
+					[
+						"n",
+						"nickname"
+					],
+					[
+						"w",
+						"w_x_size"
+					],
+					[
+						"In",
+						"Interface"
+					],
+					[
+						"ioas",
+						"iostream\tstandard header"
+					],
+					[
+						"targ",
+						"target_index"
+					],
+					[
+						"sen",
+						"sendMessage"
+					],
+					[
+						"join",
+						"joinMulticastGroup"
+					],
+					[
+						"joi",
+						"join_msg"
+					],
+					[
+						"nick_",
+						"nick_size"
+					],
+					[
+						"byt",
+						"byte_size"
+					],
+					[
+						"nick",
+						"nick_size"
+					],
+					[
+						"to",
+						"toString"
+					],
+					[
+						"sender_",
+						"sender_sock_in"
+					],
+					[
+						"mess",
+						"message_info"
+					],
+					[
+						"recv",
+						"recv_socket"
+					],
+					[
+						"recv_",
+						"recv_socket"
+					],
+					[
+						"hto",
+						"htonl"
+					],
+					[
+						"grou",
+						"group_addr"
+					],
+					[
+						"loca",
+						"local_sock_in"
+					],
+					[
+						"local",
+						"local_sock_in"
+					],
+					[
+						"EX",
+						"EXAMPLE_PORT"
+					],
+					[
+						"size",
+						"sizeof"
+					],
+					[
+						"si",
+						"si_size"
+					],
+					[
+						"ios",
+						"iostream\tstandard header"
+					],
+					[
+						"rece",
+						"receiveMessage"
+					],
+					[
+						"group",
+						"group_sock_in"
+					],
+					[
+						"IP",
+						"IP_ADD_MEMBERSHIP"
+					],
+					[
+						"I",
+						"IP_MULTICAST_LOOP"
+					],
+					[
+						"mult",
+						"multicastPort"
+					],
+					[
+						"ex",
+						"exception"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pro",
+						"Set Syntax: Protocol Buffer"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"se",
+						"Set Syntax: C++"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"ma",
+						"Set Syntax: Makefile"
+					],
+					[
+						"s",
+						"Set Syntax: C++"
+					],
+					[
+						"make",
+						"Set Syntax: Makefile"
+					],
+					[
+						"set c++",
+						"Set Syntax: C++"
+					],
+					[
+						"cla",
+						"Clang Format: Format Selection"
+					],
+					[
+						"for",
+						"Formatter: Beautify With ClangFormat"
+					],
+					[
+						"clan",
+						"Formatter: Beautify With ClangFormat"
+					],
+					[
+						"form",
+						"Formatter: Beautify With Uncrustify"
+					],
+					[
+						"cool",
+						"CoolFormat: Quick Format"
+					],
+					[
+						"set mea",
+						"Set Syntax: Makefile"
+					],
+					[
+						"co",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"ter",
+						"Terminal: Open"
+					],
+					[
+						"term",
+						"Preferences: Terminal View: Settings"
+					],
+					[
+						"syn",
+						"Set Syntax: C++"
+					],
+					[
+						"sett",
+						"Preferences: Settings"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"setti",
+						"Preferences: Settings"
+					],
+					[
+						"mate",
+						"Material Theme: Activate theme"
+					],
+					[
+						"ina",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 328.0,
+				"history":
+				[
+					"print(\"Asd\")",
+					"ls"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/server.cpp",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/protocol_buffer/handler.h",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/protocol_buffer/handler.cpp",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/database.cpp",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/database.h",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/entities/aluno.h",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/entities/curso.h",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/entities/disciplina.h",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/entities/matricula.h",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/protocol_buffer/red.pb.h",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/client/client.py",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/client/protocol_buffer/pblib.py",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/red.proto",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/makefile",
+				"/home/gord/Git/compiler/src/syntax/main.py",
+				"/home/gord/Git/compiler/src/syntax/syntax_rules.py",
+				"/home/gord/.config/sublime-text-3/Packages/User/clang_format_custom.sublime-settings",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/protocol_buffer/red.pb.cc",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/entities/teste.cpp",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/entities/matricula.cpp",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/entities/curso.cpp",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/entities/aluno.cpp",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/entities/entity.h",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/entities/disciplina.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/testei.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/main.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/interface.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/interface.h",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/Interface.h",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/Interface.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/message.h",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/msg_test.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/datagram_socket.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/message.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/datagram_socket.h",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/multcast.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/multicast_socket.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/controller.h",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/controller.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/multicast_socket.h",
+				"/home/gord/Git/msg_test.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/test.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/controller.h",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/multicast_socket.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/main.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/curse.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/controller.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/testmul.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/nana.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/multicast_socket.h",
+				"/home/gord/Git/sistemas-distribuidos/multicast/JAVA/src/ProtocolController.java",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/message.h",
+				"/home/gord/Git/sistemas-distribuidos/multicast/JAVA/src/Listener.java",
+				"/home/gord/Git/sistemas-distribuidos/multicast/src/Listener.java",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/assincrono/makefile",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/sala/makefile",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/sincrono/server.cpp",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/sincrono/client.cpp",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/assincrono/server.cpp",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/assincrono/client.cpp",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/sincrono/client",
+				"/home/gord/Git/sistemas-distribuidos/socket/socket.h",
+				"/home/gord/Git/sistemas-distribuidos/socket/client.cpp",
+				"/home/gord/Git/sistemas-distribuidos/socket/server.cpp",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/sincrono/makefile",
+				"/home/gord/main.cpp",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/server.cpp",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/client.cpp",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/makefile",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/teste.cpp",
+				"/home/gord/.config/sublime-text-3/Packages/User/formatter.assets/config/clangformatrc.yaml",
+				"/home/gord/.config/sublime-text-3/Packages/Clang Format/clang_format.sublime-settings",
+				"/home/gord/.config/sublime-text-3/Packages/Clang Format/clang_format_custom.sublime-settings",
+				"/home/gord/.config/sublime-text-3/Packages/User/clang_format.sublime-settings",
+				"/home/gord/.config/sublime-text-3/Packages/Formatter/Formatter.sublime-settings",
+				"/home/gord/.config/sublime-text-3/Packages/User/Formatter.sublime-settings",
+				"/home/gord/.config/sublime-text-3/Packages/CoolFormat/CoolFormatLib/CoolFormatConfig.cfconfig",
+				"/home/gord/Git/sistemas-distribuidos/socket/asdlcl.b",
+				"/home/gord/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/gord/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/gord/Git/sistemas-distribuidos/socket/main_server.cpp",
+				"/home/gord/Git/sistemas-distribuidos/socket/main_client.cpp",
+				"/home/gord/.config/sublime-text-3/Packages/DocBlockr/README.md",
+				"/home/gord/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/gord/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/gord/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+				"/home/gord/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/gord/.config/sublime-text-3/Packages/User/TerminalView.sublime-settings",
+				"/home/gord/.config/sublime-text-3/Packages/TerminalView/TerminalView.sublime-settings",
+				"/home/gord/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"callback",
+					"ano",
+					"seach",
+					"AlunosRequest",
+					"alunosRequest",
+					"matricula",
+					"nota_response",
+					"generated_message_util",
+					"resultDisciplina",
+					"Disciplina",
+					"resultDisciplina",
+					"Disciplina",
+					"nome",
+					"closed",
+					"responseData",
+					"response",
+					"set_statuscode",
+					"status.set_statuscode",
+					".set_statuscode",
+					"set_statuscode",
+					"status.set_statuscode",
+					"status.",
+					"set_message",
+					"status.set_message",
+					"status.",
+					"set_message",
+					"status.set_message",
+					"status.",
+					"Retrievericula",
+					".RA",
+					"SockAttr",
+					"sockaddr",
+					"SockAddr",
+					"NotaRequest",
+					"//",
+					"response",
+					"message",
+					"unwrapMessage",
+					"size",
+					"(char *)",
+					"(char * requestData)",
+					"{}",
+					"(char *)",
+					"namespace",
+					"requestType",
+					"in_len",
+					"sock_fd",
+					"intance",
+					"const char *",
+					"onst char *",
+					"const char *"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 66.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 126.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 126.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 220.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 673.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Curo",
+						"CursoRequest"
+					],
+					[
+						"Dis",
+						"DisciplinaRequest"
+					],
+					[
+						"con",
+						"context"
+					],
+					[
+						"Server",
+						"ServerContext"
+					],
+					[
+						"alunos",
+						"alunosQuery"
+					],
+					[
+						"no",
+						"nota_response"
+					],
+					[
+						"ms",
+						"msg_size"
+					],
+					[
+						"alu",
+						"alunos_response"
+					],
+					[
+						"re",
+						"request"
+					],
+					[
+						"d",
+						"disciplinaQuery"
+					],
+					[
+						"dis",
+						"disciplinaResult"
+					],
+					[
+						"nota",
+						"notas"
+					],
+					[
+						"sta",
+						"statusCode"
+					],
+					[
+						"Nota",
+						"NotaResponse"
+					],
+					[
+						"me",
+						"message"
+					],
+					[
+						"codi",
+						"codigo"
+					],
+					[
+						"encont",
+						"encontrado"
+					],
+					[
+						"set",
+						"set_message"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"curo",
+						"cursoQuery"
+					],
+					[
+						"res",
+						"responseData"
+					],
+					[
+						"sera",
+						"serializedResponse"
+					],
+					[
+						"cria",
+						"criaMatricula"
+					],
+					[
+						"Aluno",
+						"AlunoMatricula"
+					],
+					[
+						"mutable",
+						"mutable_status"
+					],
+					[
+						"aluno",
+						"alunosQuery"
+					],
+					[
+						"resul",
+						"result"
+					],
+					[
+						"str",
+						"string"
+					],
+					[
+						"result",
+						"resultMatricula"
+					],
+					[
+						"se",
+						"semestre"
+					],
+					[
+						"matri",
+						"matricula"
+					],
+					[
+						"Com",
+						"CopyFrom"
+					],
+					[
+						"rseult",
+						"resultDisciplina"
+					],
+					[
+						"statu",
+						"set_statuscode"
+					],
+					[
+						"matr",
+						"matricula"
+					],
+					[
+						"matricula",
+						"matriculaStatus"
+					],
+					[
+						"cle",
+						"clientHandler"
+					],
+					[
+						"Clo",
+						"close"
+					],
+					[
+						"sele",
+						"selectMatricula"
+					],
+					[
+						"reque",
+						"requestData"
+					],
+					[
+						"NOta",
+						"NotaRequest"
+					],
+					[
+						"ser",
+						"serializedRequest"
+					],
+					[
+						"reques",
+						"request"
+					],
+					[
+						"req",
+						"requestData"
+					],
+					[
+						"NOt",
+						"NotaRequest"
+					],
+					[
+						"Re",
+						"requestData"
+					],
+					[
+						"respon",
+						"responseData"
+					],
+					[
+						"respo",
+						"responseData"
+					],
+					[
+						"respose",
+						"responseData"
+					],
+					[
+						"repon",
+						"responseData"
+					],
+					[
+						"response",
+						"responseData"
+					],
+					[
+						"sie",
+						"serializedResponse"
+					],
+					[
+						"respons",
+						"responseData"
+					],
+					[
+						"cst",
+						"cstdio\tstandard header"
+					],
+					[
+						"pro",
+						"pro_buffer"
+					],
+					[
+						"cl",
+						"client_socket"
+					],
+					[
+						"vector",
+						"vector\tstandard header"
+					],
+					[
+						"sei",
+						"serializedResponse"
+					],
+					[
+						"sel",
+						"selectMatricula"
+					],
+					[
+						"ma",
+						"matricula"
+					],
+					[
+						"C",
+						"CreateMatricula"
+					],
+					[
+						"D",
+						"Disciplina"
+					],
+					[
+						"sql",
+						"sqlite3_column_count"
+					],
+					[
+						"sq",
+						"sqlite3_prepate_v2"
+					],
+					[
+						"ope",
+						"open"
+					],
+					[
+						"op",
+						"opened"
+					],
+					[
+						"int",
+						"instance"
+					],
+					[
+						"Sock",
+						"SockAddress"
+					],
+					[
+						"resp",
+						"responseSize"
+					],
+					[
+						"HE",
+						"HEXsize0"
+					],
+					[
+						"un",
+						"unwrapResponse"
+					],
+					[
+						"u",
+						"unwrapMessage"
+					],
+					[
+						"respos",
+						"responseData"
+					],
+					[
+						"so",
+						"sockFd"
+					],
+					[
+						"bu",
+						"buffer_size"
+					],
+					[
+						"buffer",
+						"buffer_size"
+					],
+					[
+						"cli",
+						"clientHandler"
+					],
+					[
+						"in",
+						"in_len"
+					],
+					[
+						"sock",
+						"sock_fd"
+					],
+					[
+						"SOck",
+						"SockIn"
+					],
+					[
+						"Ma",
+						"Matricula"
+					],
+					[
+						"co",
+						"codigo_curso"
+					],
+					[
+						"cod",
+						"codigo_curso"
+					],
+					[
+						"codigo",
+						"codigo"
+					],
+					[
+						"_",
+						"_dSocket"
+					],
+					[
+						"tar",
+						"Target"
+					],
+					[
+						"mul",
+						"multi"
+					],
+					[
+						"c",
+						"c_str"
+					],
+					[
+						"send",
+						"sendMessage"
+					],
+					[
+						"msg",
+						"msg_ss"
+					],
+					[
+						"begi",
+						"beginning"
+					],
+					[
+						"user",
+						"users_tab"
+					],
+					[
+						"be",
+						"begin"
+					],
+					[
+						"new",
+						"new_one"
+					],
+					[
+						"w_",
+						"w_y_size"
+					],
+					[
+						"show",
+						"showMessages"
+					],
+					[
+						"mes",
+						"messages_tab"
+					],
+					[
+						"vr",
+						"vector\tstd::vector"
+					],
+					[
+						"read",
+						"reader_tab"
+					],
+					[
+						"std",
+						"stdscr"
+					],
+					[
+						"get",
+						"getInitialInformations"
+					],
+					[
+						"n",
+						"nickname"
+					],
+					[
+						"w",
+						"w_x_size"
+					],
+					[
+						"In",
+						"Interface"
+					],
+					[
+						"ioas",
+						"iostream\tstandard header"
+					],
+					[
+						"targ",
+						"target_index"
+					],
+					[
+						"sen",
+						"sendMessage"
+					],
+					[
+						"join",
+						"joinMulticastGroup"
+					],
+					[
+						"joi",
+						"join_msg"
+					],
+					[
+						"nick_",
+						"nick_size"
+					],
+					[
+						"byt",
+						"byte_size"
+					],
+					[
+						"nick",
+						"nick_size"
+					],
+					[
+						"to",
+						"toString"
+					],
+					[
+						"sender_",
+						"sender_sock_in"
+					],
+					[
+						"mess",
+						"message_info"
+					],
+					[
+						"recv",
+						"recv_socket"
+					],
+					[
+						"recv_",
+						"recv_socket"
+					],
+					[
+						"hto",
+						"htonl"
+					],
+					[
+						"grou",
+						"group_addr"
+					],
+					[
+						"loca",
+						"local_sock_in"
+					],
+					[
+						"local",
+						"local_sock_in"
+					],
+					[
+						"EX",
+						"EXAMPLE_PORT"
+					],
+					[
+						"size",
+						"sizeof"
+					],
+					[
+						"si",
+						"si_size"
+					],
+					[
+						"ios",
+						"iostream\tstandard header"
+					],
+					[
+						"rece",
+						"receiveMessage"
+					],
+					[
+						"group",
+						"group_sock_in"
+					],
+					[
+						"IP",
+						"IP_ADD_MEMBERSHIP"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/gord/Git/sistemas-distribuidos/remote_procedure_call/server/server.h",
+					"settings":
+					{
+						"buffer_size": 2155,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/gord/Git/sistemas-distribuidos/remote_procedure_call/server/server.cpp",
+					"settings":
+					{
+						"buffer_size": 22157,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/gord/Git/sistemas-distribuidos/remote_procedure_call/server/main.cpp",
+					"settings":
+					{
+						"buffer_size": 193,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pro",
+						"Set Syntax: Protocol Buffer"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"se",
+						"Set Syntax: C++"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"ma",
+						"Set Syntax: Makefile"
+					],
+					[
+						"s",
+						"Set Syntax: C++"
+					],
+					[
+						"make",
+						"Set Syntax: Makefile"
+					],
+					[
+						"set c++",
+						"Set Syntax: C++"
+					],
+					[
+						"cla",
+						"Clang Format: Format Selection"
+					],
+					[
+						"for",
+						"Formatter: Beautify With ClangFormat"
+					],
+					[
+						"clan",
+						"Formatter: Beautify With ClangFormat"
+					],
+					[
+						"form",
+						"Formatter: Beautify With Uncrustify"
+					],
+					[
+						"cool",
+						"CoolFormat: Quick Format"
+					],
+					[
+						"set mea",
+						"Set Syntax: Makefile"
+					],
+					[
+						"co",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"ter",
+						"Terminal: Open"
+					],
+					[
+						"term",
+						"Preferences: Terminal View: Settings"
+					],
+					[
+						"syn",
+						"Set Syntax: C++"
+					],
+					[
+						"sett",
+						"Preferences: Settings"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"setti",
+						"Preferences: Settings"
+					],
+					[
+						"mate",
+						"Material Theme: Activate theme"
+					],
+					[
+						"ina",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 328.0,
+				"history":
+				[
+					"print(\"Asd\")",
+					"ls"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/gord/Git/sistemas-distribuidos/remote_procedure_call",
+				"/home/gord/Git/sistemas-distribuidos/remote_procedure_call/client",
+				"/home/gord/Git/sistemas-distribuidos/remote_procedure_call/server"
+			],
+			"file_history":
+			[
+				"/home/gord/Git/sistemas-distribuidos/remote_procedure_call/server/seek",
+				"/home/gord/Git/sistemas-distribuidos/remote_procedure_call/server/makefile",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/server.cpp",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/protocol_buffer/handler.h",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/protocol_buffer/handler.cpp",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/database.cpp",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/database.h",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/entities/aluno.h",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/entities/curso.h",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/entities/disciplina.h",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/entities/matricula.h",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/protocol_buffer/red.pb.h",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/client/client.py",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/client/protocol_buffer/pblib.py",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/red.proto",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/makefile",
+				"/home/gord/Git/compiler/src/syntax/main.py",
+				"/home/gord/Git/compiler/src/syntax/syntax_rules.py",
+				"/home/gord/.config/sublime-text-3/Packages/User/clang_format_custom.sublime-settings",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/protocol_buffer/red.pb.cc",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/entities/teste.cpp",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/entities/matricula.cpp",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/entities/curso.cpp",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/entities/aluno.cpp",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/entities/entity.h",
+				"/home/gord/Git/sistemas-distribuidos/external_data_representation/server/entities/disciplina.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/testei.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/main.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/interface.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/interface.h",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/Interface.h",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/Interface.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/message.h",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/msg_test.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/datagram_socket.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/message.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/datagram_socket.h",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/multcast.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/multicast_socket.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/controller.h",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/controller.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/src/multicast_socket.h",
+				"/home/gord/Git/msg_test.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/test.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/controller.h",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/multicast_socket.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/main.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/curse.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/controller.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/testmul.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/nana.cpp",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/multicast_socket.h",
+				"/home/gord/Git/sistemas-distribuidos/multicast/JAVA/src/ProtocolController.java",
+				"/home/gord/Git/sistemas-distribuidos/multicast/C++/message.h",
+				"/home/gord/Git/sistemas-distribuidos/multicast/JAVA/src/Listener.java",
+				"/home/gord/Git/sistemas-distribuidos/multicast/src/Listener.java",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/assincrono/makefile",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/sala/makefile",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/sincrono/server.cpp",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/sincrono/client.cpp",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/assincrono/server.cpp",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/assincrono/client.cpp",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/sincrono/client",
+				"/home/gord/Git/sistemas-distribuidos/socket/socket.h",
+				"/home/gord/Git/sistemas-distribuidos/socket/client.cpp",
+				"/home/gord/Git/sistemas-distribuidos/socket/server.cpp",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/sincrono/makefile",
+				"/home/gord/main.cpp",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/server.cpp",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/client.cpp",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/makefile",
+				"/home/gord/Git/sistemas-distribuidos/listaTCP/primeiro/teste.cpp",
+				"/home/gord/.config/sublime-text-3/Packages/User/formatter.assets/config/clangformatrc.yaml",
+				"/home/gord/.config/sublime-text-3/Packages/Clang Format/clang_format.sublime-settings",
+				"/home/gord/.config/sublime-text-3/Packages/Clang Format/clang_format_custom.sublime-settings",
+				"/home/gord/.config/sublime-text-3/Packages/User/clang_format.sublime-settings",
+				"/home/gord/.config/sublime-text-3/Packages/Formatter/Formatter.sublime-settings",
+				"/home/gord/.config/sublime-text-3/Packages/User/Formatter.sublime-settings",
+				"/home/gord/.config/sublime-text-3/Packages/CoolFormat/CoolFormatLib/CoolFormatConfig.cfconfig",
+				"/home/gord/Git/sistemas-distribuidos/socket/asdlcl.b",
+				"/home/gord/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/gord/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/gord/Git/sistemas-distribuidos/socket/main_server.cpp",
+				"/home/gord/Git/sistemas-distribuidos/socket/main_client.cpp",
+				"/home/gord/.config/sublime-text-3/Packages/DocBlockr/README.md",
+				"/home/gord/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/gord/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/gord/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+				"/home/gord/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/gord/.config/sublime-text-3/Packages/User/TerminalView.sublime-settings",
+				"/home/gord/.config/sublime-text-3/Packages/TerminalView/TerminalView.sublime-settings",
+				"/home/gord/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/gord/Git/sistemas-distribuidos/remote_procedure_call"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/gord/Git/sistemas-distribuidos/remote_procedure_call/server/server.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2155,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1262,
+										1262
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2122,
+												2123
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1038,
+												1039
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 203.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/gord/Git/sistemas-distribuidos/remote_procedure_call/server/server.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 22157,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										22012,
+										21979
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												22155,
+												22156
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												21821,
+												21822
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 8907.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/gord/Git/sistemas-distribuidos/remote_procedure_call/server/main.cpp",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 193,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/C++/C++.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 66.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 126.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 126.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,7,44,1359,761,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 220.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 32,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/gord/Git/sistemas-distribuidos/socket/sockets.sublime-workspace"
+		]
+	}
+}

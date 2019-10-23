@@ -1,0 +1,7 @@
+[
+	{ "keys": ["ctrl+q"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["ctrl+shift+q"], "command": "toggle_comment", "args": { "block": true } },
+
+	{ "keys": ["ctrl+shift+t"], "command": "open_terminal_project_folder" },
+	{ "keys": ["ctrl+shift+alt+t"], "command": "open_terminal" },
+]
