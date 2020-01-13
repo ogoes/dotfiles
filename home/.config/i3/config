@@ -8,7 +8,9 @@ floating_modifier $mod
 
 bindsym $mod+Return exec kitty
 bindsym $mod+Shift+q kill
-bindsym $mod+d exec rofi -show drun -theme /rofi/themes/\}/onedark.rasi
+#bindsym $mod+d exec rofi -show drun -theme /rofi/themes/\}/onedark.rasi
+bindsym $mod+d exec rofi -show drun -theme /home/gord/.local/share/rofi/themes/onedark.rasi
+#bindsym $mod+d exec dmenu
 bindsym $mod+h split h
 bindsym $mod+v split v
 bindsym $mod+f fullscreen toggle
@@ -168,11 +170,11 @@ bindsym XF86MonBrightnessUp exec xbacklight -inc 10 # increase screen brightness
 bindsym XF86MonBrightnessDown exec xbacklight -dec 10 # decrease screen brightness
 
 #Pulse Audio controls
-bindsym XF86AudioRaiseVolume exec amixer -q -D pulse sset Master 5%+; 
+bindsym XF86AudioRaiseVolume exec pactl -- set-sink-volume 0 +10%
 #exec pkill -RTMIN+10 i3blocks 
-bindsym XF86AudioLowerVolume exec amixer -q -D pulse sset Master 5%-; 
+bindsym XF86AudioLowerVolume exec pactl -- set-sink-volume 0 -10%
 #exec pkill -RTMIN+10 i3blocks
-bindsym XF86AudioMute exec amixer -q -D pulse sset Master toggle; 
+bindsym XF86AudioMute exec pactl -- set-sink-mute 0 toggle
 #exec pkill -RTMIN+10 i3blocks
 
 # Alsa controls
