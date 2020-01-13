@@ -3,6 +3,7 @@
 yaourt -S --noconfirm \
 	i3-{gaps,style,volume} \
 	{otf,ttf}-fira-code \
+	{otf,ttf}-font-awesome{,-4} \
 	kitty{,-terminfo} \
 	rofi \
 	nitrogen \
@@ -15,6 +16,7 @@ yaourt -S --noconfirm \
 	ranger \
 	arandr \
 	xdotool \
+	cat
 
 
 
