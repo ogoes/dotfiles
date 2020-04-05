@@ -199,6 +199,6 @@ assign [class="Spotify"] $ws10
 for_window [class="Spotify"] move to workspace $ws10
 
 bindsym Print exec xfce4-screenshooter
-
+bindsym $mod+Shift+p exec $HOME/.lock.sh
 
 for_window [class="Spotify"] floating enable
