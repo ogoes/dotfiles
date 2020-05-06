@@ -1,6 +1,6 @@
 #!/bin/sh
 
-yaourt -S --noconfirm \
+yay -S --noconfirm \
 	i3-{gaps,style,volume} \
 	scrot \
 	i3lock \
