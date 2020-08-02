@@ -17,7 +17,7 @@
   blue:       #6eaafb;
   mangenta:   #d886f3;
   cyan:       #6cdcf7;
-  emphasis:   #50536b;
+  emphasis:   #993333;
   text:       #dfdfdf;
   text-alt:   #b2b2b2;
   fg:         #abb2bf;
@@ -33,7 +33,7 @@
 window {
   transparency: "real";
   fullscreen: true;
-  background-color: #282c34dd;
+  background-color: #99000000;
 }
 
 mainbox {
@@ -68,7 +68,7 @@ listview {
 element {
   padding: 5px;
   text-color: @text-alt;
-  highlight: bold #95ee8f; /* green */
+  highlight: bold #ffffff; /* green */
   border-radius: 3px;
 }
 
