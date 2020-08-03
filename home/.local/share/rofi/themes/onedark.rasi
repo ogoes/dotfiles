@@ -31,7 +31,6 @@
 }
 
 window {
-  transparency: "real";
   fullscreen: true;
   background-color: #99000000;
 }
